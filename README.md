@@ -1,2 +1,0 @@
-# LotoGenerator
-Created with CodeSandbox
